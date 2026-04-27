@@ -5,6 +5,3 @@ input:-webkit-autofill:focus {
 input[data-autocompleted] {
     background-color: transparent !important;
 }
-input {
-    outline: 1px dotted red;
-}
